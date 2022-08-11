@@ -1,0 +1,38 @@
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.marker-btn img {
+  width: 25px;
+  height: 25px;
+}
+.hide {
+  margin-left: 95%;
+  width: 30px;
+  height: 30px;
+}
+
+.scoreimpact {
+  width: 3vw;
+  height: 3vh;
+}
+.Background {
+  background-color: #E2E2E2;
+  padding: 10px;
+}
+.photo{
+  width: 30vw;
+}
+.decalage{
+  padding: 0%;
+}
+.image-rognage {
+  position: relative;
+  width: 30vw;
+  height: 150px;
+  overflow: hidden;
+  border: 1px black solid;
+}
+
